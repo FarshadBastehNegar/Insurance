@@ -1,0 +1,15 @@
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\bin\Debug\net8.0\Insurance.Application.deps.json
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\bin\Debug\net8.0\Insurance.Application.dll
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\bin\Debug\net8.0\Insurance.Application.pdb
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.AssemblyInfoInputs.cache
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.AssemblyInfo.cs
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.csproj.CoreCompileInputs.cache
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.dll
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\refint\Insurance.Application.dll
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.pdb
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\ref\Insurance.Application.dll
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\bin\Debug\net8.0\Insurance.Domain.dll
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\bin\Debug\net8.0\Insurance.Domain.pdb
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insurance.Application.csproj.AssemblyReference.cache
+E:\FARSHAD\FBN\Tasks\Insurance\Insurance.Application\obj\Debug\net8.0\Insuranc.924AC255.Up2Date
