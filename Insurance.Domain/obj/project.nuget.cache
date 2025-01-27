@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8UUz17GVsZQ=",
+  "dgSpecHash": "YbuoB5iScd0=",
   "success": true,
-  "projectFilePath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
+  "projectFilePath": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC-T\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
-    "C:\\Users\\PC-T\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\PC-T\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\PC-1\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\PC-1\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PC-1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

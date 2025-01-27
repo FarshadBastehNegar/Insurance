@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj": {}
+    "C:\\F\\Repo\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\Insurance.Application.csproj": {
+    "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
+        "projectUniqueName": "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
         "projectName": "Insurance.Application",
-        "projectPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
-        "packagesPath": "C:\\Users\\PC-T\\.nuget\\packages\\",
-        "outputPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\obj\\",
+        "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
+        "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
+        "outputPath": "C:\\F\\Repo\\Insurance\\Insurance.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC-T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
-                "projectPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj"
+              "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
+                "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj"
               }
             }
           }
@@ -48,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -83,25 +83,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
+    "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
+        "projectUniqueName": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
         "projectName": "Insurance.Domain",
-        "projectPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC-T\\.nuget\\packages\\",
-        "outputPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Domain\\obj\\",
+        "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
+        "outputPath": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC-T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,7 +126,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -154,25 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj": {
+    "C:\\F\\Repo\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj",
+        "projectUniqueName": "C:\\F\\Repo\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj",
         "projectName": "Insurance.Infrastructure",
-        "projectPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PC-T\\.nuget\\packages\\",
-        "outputPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Infrastructure\\obj\\",
+        "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Infrastructure\\Insurance.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
+        "outputPath": "C:\\F\\Repo\\Insurance\\Insurance.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC-T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\Insurance.Application.csproj": {
-                "projectPath": "E:\\FARSHAD\\FBN\\Tasks\\Insurance\\Insurance.Application\\Insurance.Application.csproj"
+              "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj": {
+                "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj"
               }
             }
           }
@@ -202,7 +201,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -249,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

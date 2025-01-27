@@ -165,7 +165,10 @@
           "MediatR": "12.4.1"
         },
         "runtime": {
-          "Insurance.Domain.dll": {}
+          "Insurance.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
