@@ -692,23 +692,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC-1\\.nuget\\packages\\": {},
+    "C:\\Users\\Developer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
+      "projectUniqueName": "C:\\F\\repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
       "projectName": "Insurance.Application",
-      "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
-      "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
-      "outputPath": "C:\\F\\Repo\\Insurance\\Insurance.Application\\obj\\",
+      "projectPath": "C:\\F\\repo\\Insurance\\Insurance.Application\\Insurance.Application.csproj",
+      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+      "outputPath": "C:\\F\\repo\\Insurance\\Insurance.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -723,8 +723,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
-              "projectPath": "C:\\F\\Repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj"
+            "C:\\F\\repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj": {
+              "projectPath": "C:\\F\\repo\\Insurance\\Insurance.Domain\\Insurance.Domain.csproj"
             }
           }
         }
@@ -774,7 +774,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
